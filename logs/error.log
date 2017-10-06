@@ -1,0 +1,31 @@
+2017/10/06 14:17:29 [error] 20002#0: *1 open() "/home/ykaratseyeu/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.143, server: 192.168.122.143, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.143:8080"
+2017/10/06 14:19:59 [error] 20002#0: *8 open() "/home/ykaratseyeu/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.143, server: 192.168.122.143, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.143:8443"
+2017/10/06 14:19:59 [error] 20002#0: *8 open() "/home/ykaratseyeu/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.143, server: 192.168.122.143, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.143:8443"
+2017/10/06 14:53:36 [error] 21838#0: *2 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:36 [error] 21838#0: *3 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:36 [error] 21838#0: *4 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:36 [error] 21838#0: *5 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:36 [error] 21838#0: *6 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:36 [error] 21838#0: *7 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:36 [error] 21838#0: *8 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:36 [error] 21838#0: *9 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:36 [error] 21838#0: *10 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:36 [error] 21838#0: *11 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:44 [error] 21838#0: *12 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:44 [error] 21838#0: *13 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:44 [error] 21838#0: *14 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:44 [error] 21838#0: *15 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:44 [error] 21838#0: *16 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:44 [error] 21838#0: *17 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:44 [error] 21838#0: *18 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:44 [error] 21838#0: *19 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:44 [error] 21838#0: *20 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 14:53:44 [error] 21838#0: *21 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.143, server: 0.0.0.0:8443
+2017/10/06 15:24:41 [error] 22432#0: *2 open() "/home/ykaratseyeu/nginx/html/pictures/01.jpg" failed (2: No such file or directory), client: 192.168.122.143, server: 192.168.122.143, request: "GET /pictures/01.jpg HTTP/1.1", host: "192.168.122.143:8443", referrer: "https://192.168.122.143:8443/"
+2017/10/06 15:24:48 [error] 22432#0: *2 open() "/home/ykaratseyeu/nginx/html/status" failed (2: No such file or directory), client: 192.168.122.143, server: 192.168.122.143, request: "GET /status HTTP/1.1", host: "192.168.122.143:8443", referrer: "https://192.168.122.143:8443/"
+2017/10/06 15:38:35 [error] 22908#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.143, server: 192.168.122.143, request: "GET / HTTP/1.1", upstream: "http://192.168.122.75:80/", host: "192.168.122.143:8443"
+2017/10/06 15:40:21 [error] 22908#0: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.143, server: 192.168.122.143, request: "GET / HTTP/1.1", upstream: "http://192.168.122.75:80/", host: "192.168.122.143:8443"
+2017/10/06 15:40:21 [error] 22908#0: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.143, server: 192.168.122.143, request: "GET / HTTP/1.1", upstream: "http://192.168.122.220:80/", host: "192.168.122.143:8443"
+2017/10/06 15:44:16 [error] 22908#0: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.143, server: 192.168.122.143, request: "GET / HTTP/1.1", upstream: "http://192.168.122.220:80/", host: "192.168.122.143:8443"
+2017/10/06 15:44:16 [error] 22908#0: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.143, server: 192.168.122.143, request: "GET / HTTP/1.1", upstream: "http://192.168.122.75:80/", host: "192.168.122.143:8443"
+2017/10/06 15:44:24 [error] 22908#0: *12 no live upstreams while connecting to upstream, client: 192.168.122.143, server: 192.168.122.143, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.143:8443"
